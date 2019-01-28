@@ -1,0 +1,42 @@
+
+body {
+  background-color: red;
+}
+header,
+main,
+footer {
+	background-color: rgb(236, 11, 11);
+	font-size: 1.6em;
+}
+header {
+	padding: 1.875em 0;
+}
+h1, h2, h3 {
+    margin: 0;
+}
+main h2 {
+	padding: 0.625em 0 0.625em 0.625em;
+}
+h1 {
+  color: rgb(8, 0, 0);
+  text-align: center;
+  font-size: 2.5em;
+}
+footer {
+	text-align: center;
+	padding: 1.5em;
+}
+
+footer p {
+	display: inline-block;
+}
+
+img {
+	width: 100%;
+	max-width: 100%;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+  padding: 1.25em;
+}
